@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+
+    background-image: url('img/logo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.desenvolvedor {
+    text-align: center;
+    width: 206px;
+    height: 29px;
+    color: aliceblue;
+    font-weight: normal;
+
+
+
+
+}
+
+.matheus {
+    text-align: center;
+    align-items: center;
+    width: 421px;
+    height: 110px;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+.menu-principal {
+    background-color: #f3f7e6;
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Roboto';
+    color: #FFe8B6;
+}
