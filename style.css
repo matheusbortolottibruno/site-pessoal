@@ -43,9 +43,19 @@ body {
 }
 
 .menu-principal {
-    background-color: #f3f7e6;
+   
     text-align: center;
     padding-top: 10px;
     font-family: 'Roboto';
     color: #FFe8B6;
+}
+.projetos{
+
+    font-size: 20px;
+ line-height: 40px;
+ color: #fafcf4;
+ font-weight: normal;
+ 
+
+
 }
