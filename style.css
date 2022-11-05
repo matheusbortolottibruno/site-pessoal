@@ -14,45 +14,26 @@ body {
     background-image: url('img/logo.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    padding-top: 20px;
-    padding-bottom: 20px;
+   
 }
 
 .desenvolvedor {
+  padding-top: 250px;
+  padding-bottom: 250px;
     text-align: center;
+    align-items: center;
     width: 206px;
     height: 29px;
     color: aliceblue;
     font-weight: normal;
-    
+  
 
 
 
-
-}
-
-.matheus {
-    background-size: cover;
-    background-repeat: no-repeat;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    color: #fafcf4;
-}
-
-.menu-principal {
-   
-    text-align: center;
-    padding-top: 10px;
-    font-family: 'Roboto';
-    color: #FFe8B6;
-}
-.projetos{
-
-    font-size: 20px;
- line-height: 40px;
- color: #fafcf4;
- font-weight: normal;
- 
 
 
 }
+h1{
+    font-size: 100px;
+}
+
