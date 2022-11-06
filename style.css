@@ -18,17 +18,7 @@ body {
 
 }
 
-.desenvolvedor {
-    padding-top: 250px;
-    padding-bottom: 250px;
-    text-align: center;
-    align-items: center;
-    width: 206px;
-    height: 29px;
-    color: #FFFFFF;
-    font-weight: normal;
 
-}
 
 .cabecalho {
     width: 206px;
@@ -42,6 +32,9 @@ body {
     line-height: 29px;
     text-align: center;
     color: #FFFFFF;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
@@ -52,21 +45,25 @@ body {
     height: 120px;
     font-style: normal;
     font-weight: 400;
-    font-size: 80px;
     line-height: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: #FFFFFF;
+    
+
 }
 
 .h2 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
     width: 282px;
     height: 31px;
-    left: 578px;
-    top: 487px;
-    font-family: 'Lato';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 31px;
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
 
     color: #FFFFFF;
 }
@@ -84,6 +81,11 @@ body {
     line-height: 24px;
     text-align: center;
     color: #FFFFFF;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    
 }
 
 
@@ -93,6 +95,10 @@ body {
     align-items: center;
     color: aliceblue;
     font-weight: normal;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
    
 }
 
@@ -104,6 +110,11 @@ body {
     width: 429px;
     height: 280px;
     justify-content: space-around;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    
 
 
 
