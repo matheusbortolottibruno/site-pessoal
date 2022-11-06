@@ -5,8 +5,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-html{
-    scroll-behavior: smooth;}
+
+html {
+    scroll-behavior: smooth;
+}
 
 
 
@@ -30,19 +32,26 @@ body {
     font-weight: normal;
 
 }
+
 h1 {
     font-size: 50px;
 }
 
 
-.item-menu{
+.item-menu {
     font-size: 15px;
     text-align: center;
     align-items: center;
     color: aliceblue;
     font-weight: normal;
-    
+
+}
+.site{
+    background-position: right top;
+ background-repeat: repeat-y;
 
 
 }
+
+
 
