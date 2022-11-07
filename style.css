@@ -16,91 +16,95 @@ body {
     background-repeat: no-repeat;
     font-family: Arial;
 
+ 
+
+    
+
+
 }
 
 
-
-.cabecalho {
-    width: 206px;
-    height: 29px;
-    left: 616px;
-    top: 265px;
-    font-family: 'Lato';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 29px;
+.cabecalho{
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
     color: #FFFFFF;
     display: block;
     margin-left: auto;
     margin-right: auto;
-
+    padding-top: 50px;
 }
+
+
+
 
 .h1 {
-    font-family: 'Kanit';
+    font-family: 'Kanit', Arial, Helvetica, sans-serif;
     font-size: 50px;
-    width: 421px;
-    height: 120px;
-    font-style: normal;
     font-weight: 400;
-    line-height: 120px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     color: #FFFFFF;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #FFFFFF;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
     
 
 }
 
-.h2 {
-    text-align: center;
+.projetos {
+    
     padding-top: 10px;
     padding-bottom: 10px;
-    width: 282px;
-    height: 31px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    
-
-    color: #FFFFFF;
-}
-
-
-.p {
-    width: 346px;
-    height: 24px;
-    left: 546px;
-    top: 528px;
-    font-family: 'Lato';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 24px;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
     color: #FFFFFF;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    display: flex;
+    padding-top: 50px;
+
     
 }
 
 
-.item-menu {
-    font-size: 15px;
-    text-align: center;
-    align-items: center;
-    color: aliceblue;
-    font-weight: normal;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    
+.h3 {
    
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #FFFFFF;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
 }
+
+.p{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #FFFFFF;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+
+}
+
+
+   
+
 
 .site {
     text-align: justify;
@@ -114,7 +118,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     display: flex;
-    
+    padding-top: 80px;
 
 
 
